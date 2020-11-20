@@ -1,0 +1,49 @@
+Quadro extraído em 20 de Novembro de 2020 (18:28:44);;;;;
+http://www.ine.pt;;;;;
+;;;;;
+;;;;;
+;;;;;
+Local de residência (NUTS - 2013) (1) ;Taxa de desemprego (Série 2011 - %) por Local de residência (NUTS - 2013) e Sexo -  Trimestral (2) ;;;;
+;Período de referência dos dados;;;;
+;3.º Trimestre de 2020;2.º Trimestre de 2020;1.º Trimestre de 2020;4.º Trimestre de 2019;3.º Trimestre de 2019
+;Sexo;;;;
+;HM;;;;
+;% ;% ;% ;% ;% 
+PT: Portugal;7,8;5,6;6,7;6,7;6,1
+1: Continente;7,8;5,5;6,7;6,7;6,1
+2: Região Autónoma dos Açores;6,7;4,9;7,2;7,6;7,3
+3: Região Autónoma da Madeira;8,6;6,7;5,6;7;6,9
+;;;;;
+Taxa de desemprego (Série 2011 - %) por Local de residência (NUTS - 2013) e Sexo -  Trimestral - INE, Inquérito ao emprego;;;;;
+;;;;;
+Nota(s):;;;;;
+"(1) A partir de 1 de janeiro de 2015 entrou em vigor uma nova versão das NUTS (NUTS 2013). Ao nível da NUTS II ocorreu apenas uma alteração de designação em ""Lisboa"" que passou a ser designada por ""Área Metropolitana de Lisboa"".";;;;;
+;;;;;
+(2) Valores calibrados tendo por referência as estimativas da população calculadas a partir dos resultados definitivos dos Censos 2011.;;;;;
+;;;;;
+;;;;;
+;;;;;
+Última atualização destes dados: 04 de novembro de 2020;;;;;
+;;;;;
+;;;;;
+Metainformação associada ao quadro;;;;;
+;;;;;
+Taxa de desemprego (Série 2011 - %);;;;;
+Designação;Taxa de desemprego (Série 2011 - %) por Local de residência (NUTS - 2013) e Sexo -  Trimestral;;;;
+Periodicidade;Trimestral;;;;
+Fonte;INE, Inquérito ao emprego;;;;
+Primeiro período disponível;1.º Trimestre de 2011;;;;
+Último período disponível;3.º Trimestre de 2020;;;;
+Dimensões;;;;;
+     Dimensão 1;Período de referência dos dados (Trimestre);;;;
+     Dimensão 2;Local de residência (NUTS - 2013);;;;
+     Dimensão 3;Sexo;;;;
+Conceitos;;;;;
+     TAXA DE DESEMPREGO;Taxa que permite definir o peso da população desempregada sobre o total da população ativa.;;;;
+     POPULAÇÃO ATIVA;Conjunto de indivíduos com idade mínima de 15 anos que, no período de referência, constituíam a mão-de-obra disponível para a produção de bens e serviços que entram no circuito económico (empregados e desempregados).;;;;
+     PERÍODO DE REFERÊNCIA;Período de tempo a que a informação se refere e que pode ser um dia específico ou um intervalo de tempo (mês, ano fiscal, ano civil, entre outros).;;;;
+Definição;;;;;
+Fórmula;(População desempregada/ População ativa)*100;;;;
+Unidade de Medida (símbolo);Percentagem (%);;;;
+Potência de 10;0;;;;
+Data da última atualização;04/nov/20;;;;
